@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <PackageId>EFCore.BaseEntity.Common</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Burak Quartz</Authors>
+    <Company>BurakQuartz</Company>
+
+    <PackageTags>.Net6.0, Migration, Common, Base Class, Generic Type</PackageTags>
+    <Description>
+    Compatible with generic type. The Id field in BaseEntity will also be the [Key] field for EF-Migration.
+    </Description> 
+    <RepositoryUrl>https://github.com/quartz2875/EFCore-BaseEntity-Common</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
